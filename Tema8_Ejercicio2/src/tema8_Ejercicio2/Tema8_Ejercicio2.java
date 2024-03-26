@@ -122,7 +122,6 @@ public class Tema8_Ejercicio2 {
 			con.close();
 			
 			
-			
 		} catch(SQLException e) {
 			System.err.println(e.getMessage());
 			 e.getErrorCode();
